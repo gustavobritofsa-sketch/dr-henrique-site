@@ -1,0 +1,282 @@
+- generic [active] [ref=e1]:
+  - link "Ir para o conteúdo" [ref=e2] [cursor=pointer]:
+    - /url: "#conteudo"
+  - banner [ref=e3]:
+    - link "Henrique Rocha, página inicial" [ref=e4] [cursor=pointer]:
+      - /url: "#inicio"
+      - img "Henrique Rocha Advocacia Previdenciária" [ref=e5]
+      - generic [ref=e6]:
+        - text: Henrique Rocha
+        - generic [ref=e7]: Advocacia Previdenciária
+    - navigation "Navegação principal" [ref=e8]:
+      - link "Início" [ref=e9] [cursor=pointer]:
+        - /url: "#inicio"
+      - link "Sobre" [ref=e10] [cursor=pointer]:
+        - /url: "#sobre"
+      - link "Atuação" [ref=e11] [cursor=pointer]:
+        - /url: "#atuacao"
+      - link "Como funciona" [ref=e12] [cursor=pointer]:
+        - /url: "#como-funciona"
+      - link "Unidades" [ref=e13] [cursor=pointer]:
+        - /url: "#unidades"
+      - link "Contato" [ref=e14] [cursor=pointer]:
+        - /url: "#contato"
+      - link "Falar com um advogado ↗" [ref=e15] [cursor=pointer]:
+        - /url: https://wa.me/5589981225596
+        - text: Falar com um advogado
+        - generic [ref=e16]: ↗
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e22]:
+        - paragraph [ref=e23]: Henrique Rocha Advocacia Previdenciária
+        - heading [level=1] [ref=e25]:
+          - text: Seu direito,
+          - emphasis [ref=e26]: nossa missão.
+        - paragraph [ref=e27]: Atuação especializada em Direito Previdenciário e Direito Bancário, com atendimento presencial e on-line em todo o Brasil.
+        - generic [ref=e28]:
+          - link "Falar com um advogado ↗" [ref=e29] [cursor=pointer]:
+            - /url: https://wa.me/5589981225596
+            - text: Falar com um advogado
+            - generic [ref=e30]: ↗
+          - link "Conheça nossa atuação ↓" [ref=e31] [cursor=pointer]:
+            - /url: "#atuacao"
+            - text: Conheça nossa atuação
+            - generic [ref=e32]: ↓
+      - generic [aria-hidden] [ref=e33]: HENRIQUE ROCHA
+      - figure "Direito Previdenciário & Bancário" [ref=e34]:
+        - img "Henrique Rocha, advogado previdenciarista" [ref=e35]
+      - link "Role para conhecer ↓" [ref=e38] [cursor=pointer]:
+        - /url: "#autoridade"
+        - text: Role para conhecer
+        - generic [ref=e39]: ↓
+    - region "Indicadores de atuação" [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]: "01"
+        - paragraph [ref=e43]: Experiência que aproxima
+      - generic [ref=e44]:
+        - article [ref=e45]:
+          - strong [ref=e46]: "+0"
+          - paragraph [ref=e47]: anos deexperiência
+        - article [ref=e48]:
+          - strong [ref=e49]: "+0"
+          - paragraph [ref=e50]: benefíciosconcedidos
+        - article [ref=e51]:
+          - strong [ref=e52]: "+0"
+          - paragraph [ref=e53]: históriastransformadas
+        - article [ref=e54]:
+          - strong [ref=e55]: "0"
+          - paragraph [ref=e56]: unidades de atendimentopresencial
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - generic [ref=e59]: "02"
+        - paragraph [ref=e60]: Sobre Henrique Rocha
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - paragraph [ref=e63]: Advocacia com escuta e direção
+          - heading [level=2] [ref=e64]:
+            - text: Profissionalismo para orientar.
+            - emphasis [ref=e65]: Proximidade para acolher.
+        - figure [ref=e66]:
+          - img "Henrique Rocha" [ref=e67]
+        - generic [ref=e68]:
+          - heading "Henrique Rocha" [level=3] [ref=e69]
+          - paragraph [ref=e70]: Advogado previdenciarista, com mais de 7 anos de experiência e atuação em Direito Previdenciário e Direito Bancário.
+          - paragraph [ref=e71]: O atendimento é feito de forma presencial e on-line, levando orientação jurídica atenta e clara para clientes em todo o Brasil.
+          - link "Falar com a equipe" [ref=e72] [cursor=pointer]:
+            - /url: https://wa.me/5589981225596
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - generic [ref=e78]: "03"
+        - paragraph [ref=e79]: Áreas de atuação
+      - generic [ref=e80]:
+        - paragraph [ref=e81]: Direito com clareza
+        - heading [level=2] [ref=e82]:
+          - text: Duas áreas de atuação.
+          - emphasis [ref=e83]: Uma orientação cuidadosa.
+      - generic [ref=e84]:
+        - article [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e87]: "01"
+            - paragraph [ref=e88]: Direito Previdenciário
+          - heading [level=3] [ref=e89]:
+            - text: Proteção para
+            - emphasis [ref=e90]: o seu futuro.
+          - list [ref=e91]:
+            - listitem [ref=e92]: —Aposentadorias
+            - listitem [ref=e93]: —Pensões
+            - listitem [ref=e94]: —Salário maternidade
+            - listitem [ref=e95]: —Benefícios por incapacidade
+            - listitem [ref=e96]: —BPC/LOAS
+            - listitem [ref=e97]: —Revisões
+          - paragraph [ref=e98]: Atuação administrativa e judicial.
+        - article [ref=e99]:
+          - generic [ref=e100]:
+            - generic [ref=e101]: "02"
+            - paragraph [ref=e102]: Direito Bancário
+          - heading [level=3] [ref=e103]:
+            - text: Relações financeiras
+            - emphasis [ref=e104]: mais justas.
+          - list [ref=e105]:
+            - listitem [ref=e106]: —Tarifas indevidas ou abusivas
+            - listitem [ref=e107]: —Revisão de contratos
+            - listitem [ref=e108]: —Consignado
+            - listitem [ref=e109]: —RMC
+            - listitem [ref=e110]: —Defesa contra fraudes
+          - paragraph [ref=e111]: Análise e orientação para cada situação.
+    - region [ref=e112]:
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: Estamos aqui para orientar
+        - heading [level=2] [ref=e115]:
+          - text: Sua situação merece
+          - emphasis [ref=e116]: atenção individual.
+        - paragraph [ref=e117]: Um primeiro contato pode ajudar a trazer clareza sobre os caminhos jurídicos aplicáveis ao seu caso.
+      - generic [ref=e118]:
+        - link "01 Está com dúvidas sobre sua aposentadoria? ↗" [ref=e119] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596
+          - generic [ref=e120]: "01"
+          - text: Está com dúvidas sobre sua aposentadoria?
+          - generic [ref=e121]: ↗
+        - link "02 Teve seu benefício negado? ↗" [ref=e122] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596
+          - generic [ref=e123]: "02"
+          - text: Teve seu benefício negado?
+          - generic [ref=e124]: ↗
+        - link "03 Precisa entender seus direitos sobre salário maternidade? ↗" [ref=e125] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596
+          - generic [ref=e126]: "03"
+          - text: Precisa entender seus direitos sobre salário maternidade?
+          - generic [ref=e127]: ↗
+        - link "04 Identificou cobranças ou tarifas indevidas? ↗" [ref=e128] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596
+          - generic [ref=e129]: "04"
+          - text: Identificou cobranças ou tarifas indevidas?
+          - generic [ref=e130]: ↗
+        - link "05 Está enfrentando problemas com consignado ou RMC? ↗" [ref=e131] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596
+          - generic [ref=e132]: "05"
+          - text: Está enfrentando problemas com consignado ou RMC?
+          - generic [ref=e133]: ↗
+    - generic [ref=e134]:
+      - generic [ref=e135]:
+        - generic [ref=e136]: "04"
+        - paragraph [ref=e137]: Como funciona
+      - generic [ref=e138]:
+        - heading [level=2] [ref=e139]:
+          - text: Um atendimento
+          - emphasis [ref=e140]: sem complicação.
+        - paragraph [ref=e141]: Cada etapa é conduzida com atenção, transparência e orientação objetiva.
+      - generic [ref=e142]:
+        - article [ref=e143]:
+          - text: "01"
+          - heading "Primeiro contato" [level=3] [ref=e144]
+          - paragraph [ref=e145]: O cliente entra em contato pelo WhatsApp.
+        - article [ref=e146]:
+          - text: "02"
+          - heading "Análise do caso" [level=3] [ref=e147]
+          - paragraph [ref=e148]: A situação é avaliada individualmente.
+        - article [ref=e149]:
+          - text: "03"
+          - heading "Orientação jurídica" [level=3] [ref=e150]
+          - paragraph [ref=e151]: São apresentadas as possibilidades jurídicas aplicáveis ao caso.
+        - article [ref=e152]:
+          - text: "04"
+          - heading "Acompanhamento" [level=3] [ref=e153]
+          - paragraph [ref=e154]: O cliente recebe acompanhamento durante o processo.
+    - generic [ref=e157]:
+      - paragraph [ref=e158]: Presença onde você estiver
+      - heading [level=2] [ref=e159]:
+        - text: Atendimento presencial
+        - emphasis [ref=e160]: e orientação on-line em todo o Brasil.
+      - paragraph [ref=e161]: Presencialmente, o escritório atende nas suas unidades. On-line, leva orientação jurídica para clientes em todo o Brasil.
+      - link "Fale com a equipe" [ref=e162] [cursor=pointer]:
+        - /url: https://wa.me/5589981225596
+    - generic [ref=e166]:
+      - generic [ref=e167]:
+        - generic [ref=e168]: "05"
+        - paragraph [ref=e169]: Unidades presenciais
+      - heading [level=2] [ref=e171]:
+        - text: Onde o atendimento
+        - emphasis [ref=e172]: também acontece de perto.
+      - generic [ref=e173]:
+        - article [ref=e174]:
+          - text: "01"
+          - paragraph [ref=e175]: Alagoinha do Piauí
+          - heading "Alagoinha do Piauí" [level=3] [ref=e176]: Alagoinhado Piauí
+          - generic [ref=e177]: Rua Sérgio Fialho, 121, Centro
+          - generic [ref=e178]:
+            - generic [ref=e179]: Segunda a sexta-feira
+            - strong [ref=e180]: 9h às 16h
+        - article [ref=e181]:
+          - text: "02"
+          - paragraph [ref=e182]: Pio IX
+          - heading "Pio IX" [level=3] [ref=e183]
+          - generic [ref=e184]: Rua Francisco das Chagas Fortaleza, Centro
+          - generic [ref=e185]:
+            - generic [ref=e186]: Segunda, quarta e sábado
+            - strong [ref=e187]: 9h às 16h
+    - generic [ref=e188]:
+      - generic [aria-hidden] [ref=e189]: HR
+      - paragraph [ref=e190]: Henrique Rocha Advocacia Previdenciária
+      - heading [level=2] [ref=e191]:
+        - text: Fale com Henrique Rocha
+        - emphasis [ref=e192]: Advocacia Previdenciária
+      - paragraph [ref=e193]: Seu caso merece uma análise cuidadosa e orientação jurídica especializada. Entre em contato para saber como podemos ajudar.
+      - link "Falar pelo WhatsApp ↗" [ref=e194] [cursor=pointer]:
+        - /url: https://wa.me/5589981225596
+        - text: Falar pelo WhatsApp
+        - generic [ref=e195]: ↗
+      - generic [ref=e196]:
+        - link "Instagram @hr_advocaciaprevidenciaria" [ref=e197] [cursor=pointer]:
+          - /url: https://instagram.com/hr_advocaciaprevidenciaria
+          - text: Instagram
+          - generic [ref=e198]: "@hr_advocaciaprevidenciaria"
+        - link "TikTok @hr_advocaciaprev" [ref=e199] [cursor=pointer]:
+          - /url: https://tiktok.com/@hr_advocaciaprev
+          - text: TikTok
+          - generic [ref=e200]: "@hr_advocaciaprev"
+  - link "Falar no WhatsApp" [ref=e201] [cursor=pointer]:
+    - /url: https://wa.me/5589981225596
+  - contentinfo [ref=e204]:
+    - generic [ref=e205]:
+      - generic [ref=e206]:
+        - link [ref=e207] [cursor=pointer]:
+          - /url: "#inicio"
+          - img "Henrique Rocha Advocacia Previdenciária" [ref=e208]
+        - paragraph [ref=e209]: Henrique RochaAdvocacia Previdenciária
+        - generic [ref=e210]: Direito Previdenciárioe Direito Bancário.
+      - generic [ref=e211]:
+        - heading "Navegação" [level=3] [ref=e212]
+        - link "Início" [ref=e213] [cursor=pointer]:
+          - /url: "#inicio"
+        - link "Sobre" [ref=e214] [cursor=pointer]:
+          - /url: "#sobre"
+        - link "Atuação" [ref=e215] [cursor=pointer]:
+          - /url: "#atuacao"
+        - link "Como funciona" [ref=e216] [cursor=pointer]:
+          - /url: "#como-funciona"
+        - link "Unidades" [ref=e217] [cursor=pointer]:
+          - /url: "#unidades"
+        - link "Contato" [ref=e218] [cursor=pointer]:
+          - /url: "#contato"
+      - generic [ref=e219]:
+        - heading "Contato" [level=3] [ref=e220]
+        - link "WhatsApp" [ref=e221] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596
+        - link "Instagram" [ref=e222] [cursor=pointer]:
+          - /url: https://instagram.com/hr_advocaciaprevidenciaria
+        - link "TikTok" [ref=e223] [cursor=pointer]:
+          - /url: https://tiktok.com/@hr_advocaciaprev
+      - generic [ref=e224]:
+        - heading "Atendimento" [level=3] [ref=e225]
+        - paragraph [ref=e226]: Alagoinhado Piauí
+        - paragraph [ref=e227]: Pio IX
+        - generic [ref=e228]: Atendimento on-lineem todo o Brasil.
+    - generic [ref=e229]:
+      - generic [ref=e230]: Atenção
+      - paragraph [ref=e231]: Este é o único número oficial do escritório. Não envie documentos, informações pessoais ou valores para outros números que se apresentem como Henrique Rocha Advocacia Previdenciária.
+    - generic [ref=e232]:
+      - generic [ref=e233]: © 2026 Henrique Rocha Advocacia Previdenciária.
+      - link "Desenvolvido por GB Sites" [ref=e234] [cursor=pointer]:
+        - /url: https://gbsites.netlify.app/
+        - generic [ref=e235]: Desenvolvido por
+        - img "GB Sites" [ref=e236]

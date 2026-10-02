@@ -1,0 +1,210 @@
+- generic [ref=e1]:
+  - link "Ir para o conteúdo" [ref=e2] [cursor=pointer]:
+    - /url: "#conteudo"
+  - banner [ref=e3]:
+    - link "Henrique Rocha, página inicial" [ref=e4] [cursor=pointer]:
+      - /url: "#inicio"
+      - generic [ref=e6]:
+        - text: Henrique Rocha
+        - generic [ref=e7]: Advocacia
+    - button "Fechar menu" [expanded] [active] [ref=e181]:
+      - generic [ref=e177]: Menu
+    - navigation "Navegação principal" [ref=e8]:
+      - link "O escritório" [ref=e9] [cursor=pointer]:
+        - /url: "#sobre"
+      - link "Atuação" [ref=e10] [cursor=pointer]:
+        - /url: "#atuacao"
+      - link "Unidades" [ref=e11] [cursor=pointer]:
+        - /url: "#unidades"
+      - link "Falar com um advogado ↗" [ref=e12] [cursor=pointer]:
+        - /url: https://wa.me/5589981225596?text=Olá%2C%20Dr.%20Henrique.%20Gostaria%20de%20mais%20informações%20sobre%20atendimento%20jurídico.
+  - main [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e16]:
+        - paragraph [ref=e17]: Direito Previdenciário Direito Bancário
+        - heading [level=1] [ref=e19]:
+          - text: Henrique Rocha
+          - emphasis [ref=e20]: Advocacia que protege direitos e orienta decisões.
+        - paragraph [ref=e21]: Uma atuação técnica, atenta e próxima para decisões que pedem segurança — no Piauí e em todo o Brasil.
+        - generic [ref=e22]:
+          - link "Falar com um advogado ↗" [ref=e23] [cursor=pointer]:
+            - /url: https://wa.me/5589981225596?text=Olá%2C%20Dr.%20Henrique.%20Gostaria%20de%20mais%20informações%20sobre%20atendimento%20jurídico.
+            - text: Falar com um advogado
+            - generic: ↗
+          - link "Conhecer áreas de atuação ↓" [ref=e24] [cursor=pointer]:
+            - /url: "#atuacao"
+      - figure "Henrique Rocha · Advocacia" [ref=e25]:
+        - img "Dr. Henrique Rocha" [ref=e26]
+      - generic "Indicadores de autoridade" [ref=e29]:
+        - paragraph [ref=e30]:
+          - strong [ref=e31]: "+7"
+          - text: anos de experiência
+        - paragraph [ref=e32]:
+          - strong [ref=e33]: "+1.000"
+          - text: benefícios concedidos
+        - paragraph [ref=e34]:
+          - strong [ref=e35]: "2"
+          - text: unidades presenciais
+        - paragraph [ref=e36]:
+          - strong [ref=e37]: Brasil
+          - text: atendimento on-line nacional
+    - generic [ref=e38]:
+      - generic [ref=e39]: 01 O escritório
+      - paragraph [ref=e41]:
+        - text: Clareza jurídicapara seguir
+        - emphasis [ref=e42]: em frente.
+      - generic [ref=e43]:
+        - paragraph [ref=e44]: Henrique Rocha Advocacia
+        - heading [level=2] [ref=e45]:
+          - text: Proximidade no atendimento.
+          - emphasis [ref=e46]: Seriedade em cada decisão.
+        - paragraph [ref=e47]: O escritório atua com escuta atenta e orientação objetiva para que cada pessoa compreenda os caminhos possíveis antes de decidir.
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - strong [ref=e50]: +7 anos
+            - text: de experiência
+          - generic [ref=e51]:
+            - strong [ref=e52]: "+1.000"
+            - text: benefícios concedidos
+          - generic [ref=e53]:
+            - strong [ref=e54]: Atendimento
+            - text: em todo o Brasil
+    - generic [ref=e55]:
+      - generic [ref=e56]: 02 Áreas de atuação
+      - generic [ref=e57]:
+        - paragraph [ref=e58]: Duas frentes, um compromisso
+        - heading [level=2] [ref=e59]:
+          - text: Atuação jurídica
+          - emphasis [ref=e60]: com propósito.
+        - paragraph [ref=e61]: Escolha uma área para entender como o escritório pode ajudar.
+      - tablist "Áreas de atuação" [ref=e62]:
+        - tab "01 Direito Previdenciário ↗" [selected] [ref=e63] [cursor=pointer]:
+          - generic [ref=e64]: "01"
+          - generic [ref=e65]: DireitoPrevidenciário
+          - generic [ref=e66]: ↗
+        - tab "02 Direito Bancário ↗" [ref=e67] [cursor=pointer]:
+          - generic [ref=e68]: "02"
+          - generic [ref=e69]: DireitoBancário
+          - generic [ref=e70]: ↗
+      - tabpanel "01 Direito Previdenciário ↗" [ref=e71]:
+        - generic [ref=e72]:
+          - paragraph [ref=e73]: Direito Previdenciário
+          - heading [level=3] [ref=e74]:
+            - text: Planejamento e defesa para seu
+            - emphasis [ref=e75]: direito previdenciário.
+          - paragraph [ref=e76]: Do requerimento à atuação judicial, o escritório acompanha cada etapa com orientação clara.
+        - generic [ref=e77]:
+          - article [ref=e78]:
+            - generic [ref=e79]: "01"
+            - generic [ref=e80]:
+              - heading "Aposentadorias" [level=4] [ref=e81]
+              - paragraph [ref=e82]: Análise e preparação do melhor caminho para requerer seu benefício.
+          - article [ref=e83]:
+            - generic [ref=e84]: "02"
+            - generic [ref=e85]:
+              - heading "Pensões" [level=4] [ref=e86]
+              - paragraph [ref=e87]: Amparo jurídico para garantir a pensão por morte aos dependentes.
+          - article [ref=e88]:
+            - generic [ref=e89]: "03"
+            - generic [ref=e90]:
+              - heading "Salário-maternidade" [level=4] [ref=e91]
+              - paragraph [ref=e92]: Orientação para solicitar o benefício com segurança.
+          - article [ref=e93]:
+            - generic [ref=e94]: "04"
+            - generic [ref=e95]:
+              - heading "Benefício por incapacidade" [level=4] [ref=e96]
+              - paragraph [ref=e97]: Defesa para quem está incapaz, temporária ou permanentemente, para o trabalho.
+          - article [ref=e98]:
+            - generic [ref=e99]: "05"
+            - generic [ref=e100]:
+              - heading "BPC/LOAS" [level=4] [ref=e101]
+              - paragraph [ref=e102]: Suporte para idosos ou pessoas com deficiência em vulnerabilidade.
+          - article [ref=e103]:
+            - generic [ref=e104]: "06"
+            - generic [ref=e105]:
+              - heading "Revisões" [level=4] [ref=e106]
+              - paragraph [ref=e107]: Verificação de valores e critérios de benefícios já concedidos.
+        - paragraph [ref=e108]: Atuação administrativa e judicial, conforme a necessidade do caso.
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - generic [ref=e111]: 03 Atendimento
+        - paragraph [ref=e112]: Presencial e on-line
+        - heading [level=2] [ref=e113]:
+          - text: A distância não limita
+          - emphasis [ref=e114]: uma boa orientação.
+        - paragraph [ref=e115]: Conte com a mesma presença no escritório ou em uma conversa on-line, onde você estiver.
+        - link "Agendar atendimento ↗" [ref=e116] [cursor=pointer]:
+          - /url: https://wa.me/5589981225596?text=Olá%2C%20Dr.%20Henrique.%20Gostaria%20de%20mais%20informações%20sobre%20atendimento%20jurídico.
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e119]: "01"
+          - strong [ref=e120]: Alagoinha do Piauí
+          - generic [ref=e121]: Atendimento presencial
+        - generic [ref=e122]:
+          - generic [ref=e123]: "02"
+          - strong [ref=e124]: Pio IX · Piauí
+          - generic [ref=e125]: Atendimento presencial
+        - generic [ref=e126]:
+          - generic [ref=e127]: "03"
+          - strong [ref=e128]: Todo o Brasil
+          - generic [ref=e129]: Atendimento on-line
+    - generic [ref=e130]:
+      - generic [ref=e131]: 04 Unidades
+      - generic [ref=e132]:
+        - paragraph [ref=e133]: Presença física
+        - heading [level=2] [ref=e134]:
+          - text: Duas unidades.
+          - emphasis [ref=e135]: A mesma atenção.
+        - paragraph [ref=e136]: Recebemos você em Alagoinha do Piauí e Pio IX. Para todo o Brasil, o atendimento on-line mantém o escritório por perto.
+      - generic [ref=e137]:
+        - article [ref=e138]:
+          - generic [ref=e139]:
+            - generic [ref=e140]: "01"
+            - generic [ref=e141]: Alagoinha do Piauí
+          - heading "Unidade Alagoinha" [level=3] [ref=e142]: UnidadeAlagoinha
+          - generic [ref=e143]: Rua Sérgio Fialho, 121, Centro.Alagoinha do Piauí.
+          - generic [ref=e144]:
+            - generic [ref=e145]: Horário
+            - strong [ref=e146]: Segunda a sextadas 9h às 16h
+          - link "Ver no mapa ↗" [ref=e147] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Rua%20S%C3%A9rgio%20Fialho%2C%20121%2C%20Centro%2C%20Alagoinha%20do%20Piau%C3%AD
+        - article [ref=e148]:
+          - generic [ref=e149]:
+            - generic [ref=e150]: "02"
+            - generic [ref=e151]: Pio IX · Piauí
+          - heading "Unidade Pio IX" [level=3] [ref=e152]: UnidadePio IX
+          - generic [ref=e153]: Rua Francisco das Chagas Fortaleza, Centro.Pio IX, Piauí.
+          - generic [ref=e154]:
+            - generic [ref=e155]: Horário
+            - strong [ref=e156]: Segunda, quarta e sábadodas 9h às 16h
+          - link "Ver no mapa ↗" [ref=e157] [cursor=pointer]:
+            - /url: https://www.google.com/maps/search/?api=1&query=Rua%20Francisco%20das%20Chagas%20Fortaleza%2C%20Centro%2C%20Pio%20IX%2C%20Piau%C3%AD
+      - paragraph [ref=e158]: ◆Atendimento on-line para todo o Brasil.
+    - generic [ref=e159]:
+      - paragraph [ref=e161]: Henrique Rocha Advocacia
+      - heading [level=2] [ref=e162]:
+        - text: Precisa de orientação jurídica?
+        - emphasis [ref=e163]: Converse com o escritório.
+      - link "Iniciar uma conversa ↗" [ref=e164] [cursor=pointer]:
+        - /url: https://wa.me/5589981225596?text=Olá%2C%20Dr.%20Henrique.%20Gostaria%20de%20mais%20informações%20sobre%20atendimento%20jurídico.
+        - text: Iniciar uma conversa
+        - generic: ↗
+      - paragraph [ref=e165]: Atendimento presencial no Piauí e on-line em todo o Brasil.
+  - link "Falar no WhatsApp" [ref=e179] [cursor=pointer]:
+    - /url: https://wa.me/5589981225596?text=Olá%2C%20Dr.%20Henrique.%20Gostaria%20de%20mais%20informações%20sobre%20atendimento%20jurídico.
+    - text: WA
+    - generic [ref=e180]: ↗
+  - contentinfo [ref=e166]:
+    - link "Voltar ao início" [ref=e167] [cursor=pointer]:
+      - /url: "#inicio"
+      - generic [ref=e169]:
+        - text: Henrique Rocha
+        - generic [ref=e170]: Direito Previdenciário e Bancário
+    - generic [ref=e171]:
+      - link "(89) 98122-5596" [ref=e172] [cursor=pointer]:
+        - /url: https://wa.me/5589981225596?text=Olá%2C%20Dr.%20Henrique.%20Gostaria%20de%20mais%20informações%20sobre%20atendimento%20jurídico.
+      - link "Instagram" [ref=e173] [cursor=pointer]:
+        - /url: https://instagram.com/hr_advocaciaprevidenciaria
+      - link "TikTok" [ref=e174] [cursor=pointer]:
+        - /url: https://tiktok.com/@hr_advocaciaprev
+    - generic [ref=e175]: © 2026 Henrique Rocha Advocacia.
